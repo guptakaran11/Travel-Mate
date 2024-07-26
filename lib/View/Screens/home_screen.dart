@@ -14,7 +14,10 @@ class _HomeScreenState extends State<HomeScreen> {
       body: Center(
         child: Text(
           'Home screen',
-          style: TextStyle(fontSize: 50,),
+          style: TextStyle(
+            fontSize: 50,
+            fontWeight: FontWeight.bold,
+          ),
         ),
       ),
     );
