@@ -18,7 +18,8 @@ class _HomeScreenState extends State<HomeScreen> {
               'Home screen',
               style: TextStyle(
                 fontSize: 50,
-                fontWeight: FontWeight.bold,
+                fontWeight: FontWeight.bold
+                
               ),
             ),
           ),
