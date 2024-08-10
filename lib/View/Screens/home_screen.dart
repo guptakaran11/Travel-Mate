@@ -14,15 +14,17 @@ class _HomeScreenState extends State<HomeScreen> {
       body: Row(
         children: [
           Center(
-            child: Row(children: [
-              Text(
-                'Home screen',
-                style: TextStyle(
-                  fontSize: 50,
-                  fontWeight: FontWeight.bold,
+            child: Row(
+              children: [
+                Text(
+                  'Home screen',
+                  style: TextStyle(
+                    fontSize: 50,
+                    fontWeight: FontWeight.bold,
+                  ),
                 ),
-              ),
-            ]),
+              ],
+            ),
           ),
         ],
       ),
