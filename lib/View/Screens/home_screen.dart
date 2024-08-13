@@ -23,13 +23,13 @@ class _HomeScreenState extends State<HomeScreen> {
                     fontWeight: FontWeight.bold,
                   ),
                 ),
-                Text(
-                  'This is the first screen',
-                  style: TextStyle(
-                    fontSize: 50,
-                    fontWeight: FontWeight.bold,
-                  ),
-                ),
+                // Text(
+                //   'This is the first screen',
+                //   style: TextStyle(
+                //     fontSize: 50,
+                //     fontWeight: FontWeight.bold,
+                //   ),
+                // ),
               ],
             ),
           ),
