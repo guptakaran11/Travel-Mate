@@ -27,7 +27,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   'This is the first screen',
                   style: TextStyle(
                     fontSize: 50,
-                    fontWeight: FontWeight.bold,
+                    fontWeight: FontWeight.bold
                   ),
                 ),
               ],
